@@ -1,0 +1,7 @@
+venv
+artifact
+__pycache__
+.vscode
+.DS_Store
+cython_constraint.txt
+sensor.egg-info
